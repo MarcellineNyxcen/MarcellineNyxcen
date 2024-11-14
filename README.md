@@ -1,8 +1,8 @@
-# Hello there, I'm Marcelline axa
+# Hello there, I'm Marcelline - aka[Marcelline Nyxcen]
 ## About me:
 - 🔭 I’m currentlya student at Universitas Prima Indonesia
 - 🌱 I’m currently learning Graphic Design
-- 👯 I’m looking to collaborate as Interior Design
+- 👯 I’m looking to collaborate as Photography
 - 🤔 I’m looking for suggest for Rust Project Ideas
 - 💬 Ask me about anything
 - 📫 How to reach me: mncellineee133@gmail.com
@@ -10,12 +10,14 @@
 ## Education:
 
 #### 1. [Universitas Prima Indonessia](https://unprimdn.ac.id/) | Major of Visual Communication Design | Medan `2023 - 2027`
- #### 2. [SMA Buddhis Jayanti](https://dapo.kemdikbud.go.id/sekolah/1959D5AC26ABFAEA8D80) | MIPA | Rantauprapat `2020 - 2023`
+ #### 2. [SMA Methodist Lubuk Pakam](https://www.methodistpakam.sch.id/) | MIPA | Rantauprapat `2020 - 2023`
 
 ## My Portofolio:
-#### 1. [Photography]| [Project Mr&Mrs UNPRI](https://github.com/user-attachments/assets/83c8564b-135a-40e4-af72-0fc6a8cba28f) | Medan `Oct'2024
+#### 1. [Photography] Medan `Oct'2024
    - Communication and Collaboration skills
    - Capturing images
+     [Pemandangan]([Langit](https://github.com/user-attachments/assets/91c5e260-f818-4837-aae4-0ffbce85f597))
+     
 #### 2. [Graphic Design] | [Coffee & Cream](https://drive.google.com/file/d/1Ly7X3qalTc6pTdRuce6i5-1OQZQcUWzX/view?usp=drive_link) | Medan `2024`
    - Design Concept and Planning
    - Visual Creation and Graphic Elements
