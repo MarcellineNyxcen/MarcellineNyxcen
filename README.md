@@ -13,7 +13,7 @@
  #### 2. [SMA Methodist Lubuk Pakam](https://www.methodistpakam.sch.id/) | MIPA | Lubuk Pakam `2020 - 2023`
 
 ## My Portofolio:
-#### 1. [Photography] Medan 2024
+#### Photography Medan '2024'
    - Communication and Collaboration skills
    - Capturing images
 
