@@ -1,4 +1,4 @@
-# Hello there, I'm Marcelline - aka[Marcelline Nyxcen]
+# Hi there, I'm Marcelline - aka[Marcelline Nyxcen]
 ## About me:
 - 🔭 I’m currentlya student at Universitas Prima Indonesia
 - 🌱 I’m currently learning Graphic Design
