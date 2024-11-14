@@ -16,7 +16,7 @@
 #### 1. [Photography] Medan `Oct'2024
    - Communication and Collaboration skills
    - Capturing images
-     [Pemandangan]([Langit](https://github.com/user-attachments/assets/91c5e260-f818-4837-aae4-0ffbce85f597))
+   - [Langit](https://github.com/user-attachments/assets/91c5e260-f818-4837-aae4-0ffbce85f597)
      
 #### 2. [Graphic Design] | [Coffee & Cream](https://drive.google.com/file/d/1Ly7X3qalTc6pTdRuce6i5-1OQZQcUWzX/view?usp=drive_link) | Medan `2024`
    - Design Concept and Planning
